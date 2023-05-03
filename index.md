@@ -2,33 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Natural Language Processing 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Sentiment Analysis on Yelp Reviews: Yelp API, RF, Gradient Boosting and BERT](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Images Classification
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+- [Predict Lung Abnormalities with PCA, SVM and Neural Networks]
 
 
 ---
 
+### Data Science
+[Predict Rental Cost in Brazil using Polynomial Linear Regression]
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Creat Chatbot using Streamlit and Openai]
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
