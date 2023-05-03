@@ -1,11 +1,11 @@
 title: Thi Giang # your name (or website title) here
-logo: "/images/logo.JPG?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am pursuing MS degree in Statistics at San Jose State University. 
   <br><br>
-  Second description 
+  I am actively looking for full-time Data Scientist, Data Analyst, and ML Engineer positions.  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/thi-giang/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
