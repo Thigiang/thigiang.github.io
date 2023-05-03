@@ -4,14 +4,14 @@
 
 ### Natural Language Processing 
 
-[Sentiment Analysis on Yelp Reviews: Yelp API, RF, Gradient Boosting and BERT](/sample_page)
+[Sentiment Analysis on Yelp Reviews: Yelp API, RF, Gradient Boosting and BERT]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Images Classification
 
-- [Predict Lung Abnormalities with PCA, SVM and Neural Networks]
+[Predict Lung Abnormalities with PCA, SVM and Neural Networks]
 
 
 ---
