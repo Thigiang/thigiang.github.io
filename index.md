@@ -4,8 +4,9 @@
 
 ### Natural Language Processing 
 
-Sentiment Analysis on Yelp Reviews: Yelp API, RF, Gradient Boosting and BERT
-[![](https://img.shields.io/badge/Githut-View%20on%20Github-brightgreen)](https://github.com/Thigiang/Yelp-review)
+[Sentiment Analysis on Yelp Reviews: Yelp API, RF, Gradient Boosting and BERT]
+
+[![](https://img.shields.io/badge/Github-View%20on%20Github-brightgreen)](https://github.com/Thigiang/Yelp-review)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
