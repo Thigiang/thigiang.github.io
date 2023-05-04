@@ -32,7 +32,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Thigiang/Chatbot)
 
-<div style="text-align: justify"> First, I used openai.Completion to generate a response for a given input or question. Then I used streamlit session state to get text input, store the chat and display the chat history.</div>
+<div style="text-align: justify"> First, I used openai.Completion to generate a response for a given input or question. Then I used streamlit session state to get text input, store the chat and display the chat history. I was able to create a simple chatbot that can take in the users questions, direct it to openai ChatGPT and send back responses that are generated through openai.</div>
 
 <br>
 <center> <img src="images/chatbot.png"/></center>
