@@ -8,7 +8,7 @@
 
 [![In Progress](https://img.shields.io/badge/GitHub-In_progress-blightgreen?logo=GitHub)](https://github.com/Thigiang/Yelp-review)
 
-**Collect data from Yelp Fusion API:** Using Yelp API, I collected more than 20,000 Yelp restaurants' reviews in the Bay Area using requests and json libraries.
+**Collect data from Yelp Fusion API:** Using Yelp API, I collected more than 20,000 Yelp restaurants' reviews in the Bay Area using ***requests*** and ***json*** libraries.
 
 **Sentiment Analysis**
 
