@@ -34,5 +34,7 @@
 
 <div stype="text-align: justify" First, I used openai.Completion to generate a response for a given input or question. Then I used streamlit session state to get text input, store the chat and display the chat history.</div>
 ![]("images/chatbot.mov")
-
+<br>
+<center> <img src="images/chatbot.png"/></center>
+<br>
 
