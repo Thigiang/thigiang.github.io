@@ -6,7 +6,7 @@
 
 ### Sentiment Analysis on Yelp Reviews: Yelp API, RF, Gradient Boosting and BERT
 
-[![In Progress](https://img.shields.io/badge/GitHub-Vew_on_GitHub-blightgreen?logo=GitHub)](https://github.com/Thigiang/Yelp-review)
+[![In Progress](https://img.shields.io/badge/GitHub-In_progress-blightgreen?logo=GitHub)](https://github.com/Thigiang/Yelp-review)
 
 
 ---
