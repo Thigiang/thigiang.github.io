@@ -28,7 +28,7 @@
 ### Predict Rental Cost in Brazil using RidgeCV, Lasso regression and BoxCox transformation
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Thigiang/Regression-Model-rent-price-Brazil)
-[![View on Google Colab](https://img.shields.io/badge/Colab-Run in Google Colab-blue?logo=Google&logoColor=FDBA18)] (https://colab.research.google.com/drive/1BW9zROaRDpgmJI6ueYW5pUkswERU5_-Q?usp=sharing)
+[![View on Google Colab](https://img.shields.io/badge/Colab-Run in Google Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1BW9zROaRDpgmJI6ueYW5pUkswERU5_-Q?usp=sharing)
 
 <div style="text-align: justify">  I perform comprehensive data analysis to handle missing values, outliers, perform feature engineering and feature selection to understand the important features for modling. I ensemple machine learning model to predict the rental cost in Brazil. My most optimal model had resolved the non-normality problem and achieve an accuracy of 91% with a mean square error of 0.041.</div>
 
