@@ -31,7 +31,7 @@
 
 <br>
 <left> <img src="images/QQ1.png"/></left>
-<right> <img src="images/QQ1.png"/></right>
+<right> <img src="images/QQ2.png"/></right>
 <br>
 
 
