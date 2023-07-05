@@ -31,9 +31,10 @@
 
 <br>
 <left> <img src="images/QQ1.png"/></left>
+<br>
+<br>
 <right> <img src="images/QQ2.png"/></right>
 <br>
-
 
 ### Creat Chatbot using Streamlit and Openai
 
