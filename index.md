@@ -29,6 +29,9 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Thigiang/Regression-Model-rent-price-Brazil)
 
+<br>
+<left> <img src="images/QQ1.png"/></left>
+<br>
 
 
 ### Creat Chatbot using Streamlit and Openai
