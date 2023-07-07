@@ -18,7 +18,11 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Thigiang/Chest-X-ray-Classification-Project)
 
+<div style="text-align: justify">  First I converted the data into pixel and performed data analysis to understand the structure of the data have been created for better modeling choices. Then I extracted the important features using PCA 95%. I trained machine learning models to learning pattern of normal and abnormal chest X-ray from the train data. Lastly, I used the train model to classified the chest X-ray from the test set with 90% accuracy. </div>
 
+<br>
+<center> <img src="images/cxr.png"/></center>
+<br>
 ---
 
 ## Data Science
