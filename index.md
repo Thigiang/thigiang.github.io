@@ -51,4 +51,14 @@
 <br>
 
 ---
+## Cooking video by me
+[![View My Cooking Videos](https://img.shields.io/badge/YouTube-View_My_Cooking_Videos-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
+
+<div style="text-align: justify"> Besides Data Science, I love cooking as it is the way I show my love to my beloved ones. I have a great passion in trying and learning cooking food from different culture, and I think other people also love to learn it, so I've decided to film what I cook to share my recipes.  </div>
+
+- [OATMEAL BOWL FOR BREAKFAST](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
+- [PALAK TAMBLI | SPINACH TAMBLI](https://www.youtube.com/watch?v=1SPz_p7u1bg)
+- [ONION RINGS](https://www.youtube.com/watch?v=AVUAy4rAAQU&t=6s)
+- [CHOCOLATE ICECREAM](https://www.youtube.com/watch?v=lxAca4Lv-z0)
+- [DALGONA COFFEE](https://www.youtube.com/watch?v=SmHp9wdCk2I&t=1s)
 
