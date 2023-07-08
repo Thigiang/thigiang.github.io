@@ -52,12 +52,17 @@
 
 ---
 ## Cooking videos by me
+
 [![View My Videos](https://img.shields.io/badge/YouTube-View_My_Videos-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
 
+
 <div style="text-align: justify"> Besides Data Science, I love cooking. I am not a professional chef, but I have a passion for cooking. I learn most of the recipes from online platforms, make mistakes before I get a perfect recipe for myself. Hence, I share my recipes on YouTube and I want others to know that we can improve ourselves by keeping learning everyday and anytime.  </div>
+
 
 - [Oatmeal bow for breakfast](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
 - [Palak tambli](https://www.youtube.com/watch?v=1SPz_p7u1bg)
 - [Chocolate icecream](https://www.youtube.com/watch?v=lxAca4Lv-z0)
 - [Dalgona coffee](https://www.youtube.com/watch?v=SmHp9wdCk2I&t=1s)
 
+
+___
