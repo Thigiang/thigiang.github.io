@@ -51,14 +51,13 @@
 <br>
 
 ---
-## Cooking video by me
-[![View My Cooking Videos](https://img.shields.io/badge/YouTube-View_My_Cooking_Videos-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
+## Cooking videos by me
+[![View My Videos](https://img.shields.io/badge/YouTube-View_My_Videos-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
 
-<div style="text-align: justify"> Besides Data Science, I love cooking as it is the way I show my love to my beloved ones. I have a great passion in trying and learning cooking food from different culture, and I think other people also love to learn it, so I've decided to film what I cook to share my recipes.  </div>
+<div style="text-align: justify"> Besides Data Science, I love cooking. I am not a professional chef, but I have a passion for cooking. I learn most of the recipes from online platforms, make mistakes before I get a perfect recipe for myself. Hence, I share my recipes on YouTube and I want others to know that we can improve ourselves by keeping learning everyday and anytime.  </div>
 
-- [OATMEAL BOWL FOR BREAKFAST](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
-- [PALAK TAMBLI | SPINACH TAMBLI](https://www.youtube.com/watch?v=1SPz_p7u1bg)
-- [ONION RINGS](https://www.youtube.com/watch?v=AVUAy4rAAQU&t=6s)
-- [CHOCOLATE ICECREAM](https://www.youtube.com/watch?v=lxAca4Lv-z0)
-- [DALGONA COFFEE](https://www.youtube.com/watch?v=SmHp9wdCk2I&t=1s)
+- [Oatmeal bow for breakfast](https://www.youtube.com/watch?v=_fB3Zdgr9Aw)
+- [Palak tambli](https://www.youtube.com/watch?v=1SPz_p7u1bg)
+- [Chocolate icecream](https://www.youtube.com/watch?v=lxAca4Lv-z0)
+- [Dalgona coffee](https://www.youtube.com/watch?v=SmHp9wdCk2I&t=1s)
 
